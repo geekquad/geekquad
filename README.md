@@ -7,3 +7,4 @@
 - 📫 Reach me at: https://www.linkedin.com/in/geekquad/ 
 - 🐍 PyPi at: https://pypi.org/user/geekquad/ 
 - ⚡ Fun fact: When not on computer, you can find me playing 🎸
+- 🧹🧙 Still waiting for my Hogwarts letter. 
