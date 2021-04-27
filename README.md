@@ -1,5 +1,6 @@
 ## Algorithms are opinions embedded in code.
-<img src="https://github.com/geekquad/geekquad/blob/master/algo.gif">
+![Metrics](https://metrics.lecoq.io/geekquad?template=terminal&config.timezone=Asia%2FCalcutta)
+
 
 - 🔭 I’m currently working on Personal Projects.
 - 🌱 I’m currently learning Machine Learning Algorithms/Deep Learning.
