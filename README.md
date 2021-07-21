@@ -1,6 +1,6 @@
 <h2 align="center">
 <code> <h4> Algorithms are opinions embedded in code. <h2> </code>
-<img src="aurora.gif">
+<img src="aurora.gif" width="900">
 
 <h2 align="center"> Hey there! 👨‍💻 </h2>
 <p align="center">
@@ -28,7 +28,10 @@ Want to contribute to some beginner-friendly Open-Source Projects? Please go thr
   <!-- <img src="https://komarev.com/ghpvc/?username=geekquad" alt="geekquad" />  -->
 </p>
 
-[![Geekquad's Github Stats](https://github-readme-stats.vercel.app/api?username=geekquad&count_private=true&layout=compact&hide=html&theme=synthwave)
+<h2 align="center">🐦 Github Statistics </h2>
+<p align="center">
+<img src="https://github-readme-stats.vercel.app/api?username=geekquad&count_private=true&layout=compact&hide=html&theme=synthwave" alt="Geekquad's Github Stats" />&nbsp;&nbsp;&nbsp;&nbsp;
+</p>
 
 <!-- <p align="center"> <img src="https://github-readme-streak-stats.herokuapp.com/?user=geekquad" /> </p> -->
 <!-- https://github-readme-stats.vercel.app/api/top-langs/?username=geekquad&layout=compact -->
