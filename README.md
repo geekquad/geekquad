@@ -27,6 +27,20 @@ Want to contribute to some beginner-friendly Open-Source Projects? Please go thr
   <!-- <img src="https://komarev.com/ghpvc/?username=geekquad" alt="geekquad" />  -->
 </p>
 
+<h2 align="center"> <img src="https://emojipedia-us.s3.dualstack.us-west-1.amazonaws.com/thumbs/120/facebook/230/male-technologist_1f468-200d-1f4bb.png" height="20"> Tech Stack </h2>
+<p align="center">
+  
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" /></a>&nbsp;&nbsp;
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" /></a>&nbsp;&nbsp;<img src="https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white" /></a>&nbsp;&nbsp;
+  <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" /></a>&nbsp;&nbsp;
+  <img src="https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white" /></a>&nbsp;&nbsp;
+  <img src="https://img.shields.io/badge/Heroku-430098?style=for-the-badge&logo=heroku&logoColor=white" /></a>&nbsp;&nbsp;
+  <img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white" /></a>&nbsp;&nbsp;
+  <img src="https://img.shields.io/badge/git%20-%231572B6.svg?&style=for-the-badge&logo=git&logoColor=white" /></a>&nbsp;&nbsp;
+  <img src="https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white" /></a>&nbsp;&nbsp;<img src="https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white" /></a>&nbsp;&nbsp;<img src="https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white" /></a>&nbsp;&nbsp;<img src="https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white" /></a>&nbsp;&nbsp;
+  <img src="https://img.shields.io/badge/Keras-%23D00000.svg?style=for-the-badge&logo=Keras&logoColor=white" /></a>&nbsp;&nbsp;
+</p>
+
 <h2 align="center"><img src="https://myoctocat.com/assets/images/base-octocat.svg" height="20"> Github Statistics </h2>
 <p align="center">
 <img src="https://github-readme-stats.vercel.app/api?username=geekquad&count_private=true&layout=compact&hide=html&theme=synthwave" alt="Geekquad's Github Stats" />&nbsp;&nbsp;&nbsp;&nbsp;
