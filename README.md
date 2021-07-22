@@ -46,7 +46,7 @@ Want to contribute to some beginner-friendly Open-Source Projects? Please go thr
 
 <h2 align="center"><img src="https://myoctocat.com/assets/images/base-octocat.svg" height="20"> Github Statistics </h2>
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=geekquad&count_private=true&layout=compact&hide=html&theme=synthwave" alt="Geekquad's Github Stats" />&nbsp;&nbsp;&nbsp;&nbsp;
+<img src="https://github-readme-stats.vercel.app/api?username=geekquad&count_private=true&layout=compact&hide=html&theme=algolia" alt="Geekquad's Github Stats" />&nbsp;&nbsp;&nbsp;&nbsp;
 </p>
 
 <!-- <p align="center"> <img src="https://github-readme-streak-stats.herokuapp.com/?user=geekquad" /> </p> -->
