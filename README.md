@@ -4,21 +4,20 @@
 <h2 align="center"><img src="assets\hi.gif" height="21"> Hey there! </h2>
 <p align="center">
   <samp>
-I am Aditya, a pre-final year Computer Science Undergrad. Everything about computers excites me. I build models from scratch and have a great passion for innovating things through automation. I have interests in Image Processing, Computer Vision, and NLP. 
+I am Aditya. Everything about computers excites me. I build models from scratch and have a great passion for innovating things through automation. I have interests in Image Processing, Computer Vision, and NLP. 
   </samp>
   <br>
   <samp>
-Currently working on my Web Development skills.
+Currently working on my Backend Development skills primalrily with Go.
   </samp>
   <br>
   <samp>
-  When AFK you can find me singing 🎶, playing guitar 🎸, a Uke or maybe a Keyboard 🎹. 
+  When AFK you can find me singing 🎶, playing guitar 🎸, or maybe a Keyboard 🎹. 
   </samp>
   <br><br>
 
   <samp>
-I have previously worked with <a href="https://omdena.com/">Omdena </a> as an ML Engineer for their project <a href="https://omdena.com/blog/machine-learning-rooftops/"> Machine Learning For Rooftop Detection and Solar Panel Installment </a>as well as a Data Analyst with <a href="https://www.loveonn.com/"> LoveONN</a>. 
-You can also find some of my PyPi packages <a href="https://pypi.org/user/geekquad/"> here</a>.
+I am currently working for a sport-tech company as a SDE and have previously worked with <a href="https://omdena.com/">Omdena </a> as an ML Engineer for their project <a href="https://omdena.com/blog/machine-learning-rooftops/"> Machine Learning For Rooftop Detection and Solar Panel Installment </a>as well as a Data Analyst with <a href="https://www.loveonn.com/"> LoveONN</a>. 
 <br><br>
 <samp>  
 Want to contribute to some beginner-friendly Open-Source Projects? Please go through my <a href="https://github.com/geekquad/geekquad/blob/master/OpenSourceProjects.md"> Open-Source Projects </a> and get in touch if you want to contribute or manage them.
